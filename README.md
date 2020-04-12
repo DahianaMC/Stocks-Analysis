@@ -8,6 +8,8 @@ To make this analysis we are using a nested loop.  The first for loop will be us
 #Challenge2 Module2
 ---
 Excel file name: green_stocks - Challenge Module 2 - Dahiana Mejia
+Macro name for original code: AllStocksAnalysis
+Macro name for challenge 2 code: AllStocksAnalysisChallenge2
 
 We are refactoring the code with the nested loop.  We are using only one for loop to loop over the tickers and compute the total volume and return.
 
