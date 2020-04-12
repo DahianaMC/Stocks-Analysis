@@ -7,6 +7,8 @@ To make this analysis we are using a nested loop.  The first for loop will be us
 
 #Challenge2 Module2
 ---
+Excel file name: green_stocks - Challenge Module 2 - Dahiana Mejia
+
 We are refactoring the code with the nested loop.  We are using only one for loop to loop over the tickers and compute the total volume and return.
 
 We created arrays for tickers, total volume, starting prices and ending prices.
