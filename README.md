@@ -13,7 +13,8 @@ Macro name for original code: AllStocksAnalysis
 
 Macro name for challenge 2 code: AllStocksAnalysisChallenge2
 
-
+Analysis
+---
 We are refactoring the code with the nested loop.  We are using only one for loop to loop over the tickers and compute the total volume and return.
 
 We created arrays for tickers, total volume, starting prices and ending prices.
