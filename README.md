@@ -15,8 +15,8 @@ We created arrays for tickers, total volume, starting prices and ending prices.
 
 We set a tickerindex to call each ticker, then we will use a for loop to loop over the rows from 2nd to the last row.
 
-We are computing the total volume and return more efficiency.  We only need to open once the worksheets "year value", then compute the total volume and take the values for starting and ending price per ticker.  Since we created arrays these values will be storaged on each array.  After finishing the for loop, we open the worksheet "AllStockAnalysis" once and print the results.
+We are computing the total volume and return more efficient.  We only need to open once the worksheets "year value", then compute the total volume and take the values for starting and ending price per ticker.  Since we created arrays these values will be storage on each array.  After finishing the for loop, we open the worksheet "AllStockAnalysis" once and print the results.
 
-On the original code, we need to open the worksheets "year value" to take the ticker that we need to analize, then loop over the rows, then open the worksheets "AllStockAnalysis" to print the results, then open again the worksheet "year value" to read the next ticker.  We open the worksheets 12 times, becuase we have 12 tickers, this make this code run slower than the refactoring one.
+On the original code, we need to open the worksheets "year value" to take the ticker that we need to analyze, then loop over the rows, then open the worksheets "AllStockAnalysis" to print the results, then open again the worksheet "year value" to read the next ticker.  We open the worksheets 12 times, because we have 12 tickers, this make this code run slower than the refactoring one.
 
 In conclusion we are making a code that runs faster, more efficient, and it is giving same results required.
