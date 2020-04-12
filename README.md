@@ -9,9 +9,9 @@ To make this analysis we are using a nested loop.  The first for loop will be us
 ---
 Excel file name: green_stocks - Challenge Module 2 - Dahiana Mejia
 
-Macro name for original code: AllStocksAnalysis
+Macro name for original code: AllStocksAnalysis (Module 1)
 
-Macro name for challenge 2 code: AllStocksAnalysisChallenge2
+Macro name for challenge 2 code: AllStocksAnalysisChallenge2 (Module 1)
 
 Analysis
 ---
